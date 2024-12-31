@@ -15,10 +15,9 @@
     "firebase": "^11.1.0",
     "parcel": "^2.13.3",
     "postcss": "^8.4.49",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-router": "^7.1.1",
-    "react-router-dom": "^7.1.1"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.28.1"
   },
   "devDependencies": {
     "buffer": "^6.0.3",
